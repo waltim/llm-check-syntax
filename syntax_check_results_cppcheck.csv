@@ -1,539 +1,539 @@
 id_function_original,code_pre_commit_result,code_post_commit_result,code_model_llama3_result,code_model_gpt4o_result,code_model_geminipro_result,code_model_claude3opus_result
-661,OK,OK,"/tmp/tmpl2dpyar4.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+661,OK,OK,"/tmp/tmpzl02r8wc.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpq11e1dlf.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp7hffo1st.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpmu5l3w5c.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp9bl9imm5.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpxo15xt0b.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp6m_jqz92.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-2243,OK,OK,"/tmp/tmpyw22l2q9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2243,OK,OK,"/tmp/tmpowkbwd5j.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp0goes7bo.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpy93eee7r.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp86gqq3n0.cpp:1:82: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpr6eb4oy8.cpp:1:82: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void identityaddvcarddialogtest::shouldEnabledComboboxWhenSelectDuplicateVCard() {
-                                                                                 ^","/tmp/tmpd52q7hay.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                                 ^","/tmp/tmpntsua07j.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-2677,OK,OK,"/tmp/tmpcnua4fb1.cpp:1:129: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2677,OK,OK,"/tmp/tmpp80ub4pw.cpp:1:129: error: Unmatched '{'. Configuration: ''. [syntaxError]
 QAction* KTNEFMain::createAppAction(const KService::Ptr& service, bool singleOffer, QActionGroup* actionGroup, QObject* parent) {
-                                                                                                                                ^","/tmp/tmptt6u_stj.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                                                                                ^","/tmp/tmpd44_se_k.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpnz0_pc96.cpp:1:129: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp0q23b2b1.cpp:1:129: error: Unmatched '{'. Configuration: ''. [syntaxError]
 QAction* KTNEFMain::createAppAction(const KService::Ptr& service, bool singleOffer, QActionGroup* actionGroup, QObject* parent) {
-                                                                                                                                ^","/tmp/tmph2ycwsa7.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                                                                                ^","/tmp/tmptv1k7g4o.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-1035,OK,OK,"/tmp/tmpfgj0yehn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1035,OK,OK,"/tmp/tmpon_b41fw.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpj3536g0j.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpe604xy4v.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp815hvzs0.cpp:1:70: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpjfag2359.cpp:1:70: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void PotentialPhishingDetailWidget::fillList(const QStringList &lst) {
-                                                                     ^","/tmp/tmpy2kifs_t.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                     ^","/tmp/tmpv2wu3oxg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-1576,OK,OK,"/tmp/tmputzd5d_8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1576,OK,OK,"/tmp/tmpdf6hdkgs.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp_3yjvnb3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpjfsg4hop.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp1f_m0yzb.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpxpbb3fj5.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp2opw72ln.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp3g938eb0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-2676,OK,OK,"/tmp/tmpd92ql2oq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2676,OK,OK,"/tmp/tmp8mvlnz37.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp1baiz3dn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpq1l5rnfe.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp048_nva5.cpp:1:54: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpw_9o80ay.cpp:1:54: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void KTNEFMain::openWith(const KService::Ptr &offer) {
-                                                     ^","/tmp/tmpe4c_2dy9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                     ^","/tmp/tmpb2hhk1xl.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-1383,OK,OK,"/tmp/tmpxxaoqrm_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1383,OK,OK,"/tmp/tmpcr4m3fds.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp42kk54s4.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp75qlflnx.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmposmi060q.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpg_0x1own.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomFieldsWidgetTest::shouldHaveDefaultValue() {
-                                                      ^","/tmp/tmpz9ct5f53.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                      ^","/tmp/tmpmuckmjk8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-954,OK,OK,"/tmp/tmpey7im_zd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+954,OK,OK,"/tmp/tmpa2qc_s02.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpx6dd12ew.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp9712042m.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp749uc9qz.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpo0ad5ku1.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmprqmt860u.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^"
-1029,OK,OK,"/tmp/tmpxw5g_bq0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpqqgj7os_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpji1byo24.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpbkdj_t1u.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpdi6i0kvz.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^"
-3910,OK,OK,OK,"/tmp/tmpv3keyxp9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1029,OK,OK,"/tmp/tmp8vprbc4a.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp8zzzuq53.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp5dcwi7tr.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmp9e6h3a6b.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmptmb32cpx.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^"
+3910,OK,OK,OK,"/tmp/tmpz_o_gpvz.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmpmmf0i5wp.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void ProjectModelPerformanceTest::addBigTree() {
                                                ^",OK
-2171,OK,OK,"/tmp/tmpn2mrvlyn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2171,OK,OK,"/tmp/tmp_ryqkm_f.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpz2927rg4.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpt4oug4y2.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp67w9qmbf.cpp:1:38: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpnoguif_4.cpp:1:38: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void EditorUtilTest::testUpperCase() {
                                      ^",OK
-899,OK,OK,"/tmp/tmprtjaj1c1.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+899,OK,OK,"/tmp/tmphswlar6k.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpuy28cot7.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp2rjyxndc.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmppj3wgsyt.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp6kudosm5.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void ConfigModuleWithTabs::save() {
                                   ^",OK
-3206,OK,OK,OK,"/tmp/tmpppartdsi.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3206,OK,OK,OK,"/tmp/tmpkgxp2pez.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp9efzk9u4.cpp:1:29: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp2xkfhl4j.cpp:1:29: error: Unmatched '{'. Configuration: ''. [syntaxError]
 bool OktetaPart::openFile() {
                             ^",OK
-412,OK,OK,"/tmp/tmp1of_05fn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+412,OK,OK,"/tmp/tmpv00a01ww.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpinox96kt.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpi6d6ne3j.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpxyi00woq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK
-219,OK,OK,OK,"/tmp/tmpsblw6d7a.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpfcvuy72r.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp_ia22_x3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-32,"/tmp/tmpoj9jmcgs.cpp:17:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
- }
- ^","/tmp/tmp3eeomtqh.cpp:17:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
- }
- ^",OK,"/tmp/tmpuzrwoh4t.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+219,OK,OK,OK,"/tmp/tmpae40t1zq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmps1ngaf0a.cpp:1:56: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpikmqsgu6.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^",OK
+32,"/tmp/tmpyz8bg261.cpp:17:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ }
+ ^","/tmp/tmpkx21o6b8.cpp:17:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ }
+ ^",OK,"/tmp/tmpz1fh0ozb.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmp6dsuu5f7.cpp:1:56: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void TestDocumentFileWriteToJob::startSyncWithRemote() {
                                                        ^",OK
-5103,OK,OK,OK,"/tmp/tmpijrkwghg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5103,OK,OK,OK,"/tmp/tmpcr7y0tgr.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpu167d3gu.cpp:1:83: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmptmbftz32.cpp:1:83: error: Unmatched '{'. Configuration: ''. [syntaxError]
 AddressRangeList GroupPieceTableChange::revertGroup(PieceTable* pieceTable) const {
                                                                                   ^",OK
-3700,OK,OK,"/tmp/tmp_ya_ugjr.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3700,OK,OK,"/tmp/tmprlh7_qub.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpfnnf5z5m.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpvz08yg91.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp58dbyxoc.cpp:2:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpm8n_aa23.cpp:2:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
  {
  ^",OK
-2536,"/tmp/tmp62f0nsv3.cpp:12:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+2536,"/tmp/tmp77zza2ww.cpp:12:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpbqikwbkv.cpp:12:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpsn5cay_w.cpp:12:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpqajk8nk5.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpzwvbl1ba.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpn4sfpkjg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpkuxagzzd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpvg8ins5p.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp5mjq4eo9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-4226,OK,OK,"/tmp/tmpsrjltv5d.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+4226,OK,OK,"/tmp/tmp8dwitgu9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmps77r_cb_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpuv4gnhns.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpxzkfn_n9.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpic4u5cck.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void StructuresTool::unlockStructure(const QModelIndex& idx) {
                                                              ^",OK
-3999,OK,OK,"/tmp/tmp168w5wsm.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3999,OK,OK,"/tmp/tmpxyp77vrz.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpy06qbcs0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpvlk_5qml.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpuo47ls7x.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK
-2931,OK,OK,"/tmp/tmpnuhouo76.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK,"/tmp/tmpflirczh7.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp3fsf100n.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-4227,OK,OK,"/tmp/tmpycf8u0ur.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2931,OK,OK,"/tmp/tmpgjue0bko.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpg3gz47c9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^",OK,"/tmp/tmpt8p6sz10.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp443zmpgw.cpp:1:70: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^",OK
+4227,OK,OK,"/tmp/tmppp9ztasd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmp6e97buna.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmp2loazdzc.cpp:1:70: error: Unmatched '{'. Configuration: ''. [syntaxError]
 bool StructuresTool::isStructureLocked(const QModelIndex& idx) const {
                                                                      ^",OK
-2731,OK,OK,"/tmp/tmpsubwo67m.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2731,OK,OK,"/tmp/tmp1ogaii7c.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
 KParts::ReadOnlyPart* PanelViewer::getListerPart(bool hexMode) {
-                                                               ^","/tmp/tmp683obs_1.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                               ^","/tmp/tmp_46czwtd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp71etiski.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpbsx31786.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
 KParts::ReadOnlyPart* PanelViewer::getListerPart(bool hexMode) {
                                                                ^",OK
-316,"/tmp/tmpakws_n22.cpp:14:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+316,"/tmp/tmpgqx0poq4.cpp:14:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpxo0q99mg.cpp:13:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmphxt0oc1s.cpp:13:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^",OK,"/tmp/tmp_n15fv06.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+ ^",OK,"/tmp/tmph_bjw76e.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp2pveeo11.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpuvxi2v0k.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]",OK
-1335,"/tmp/tmp_y_re4rv.cpp:1:0: style: The function 'searchContact' is never used. [unusedFunction]
+1335,"/tmp/tmp56bgtdyd.cpp:1:0: style: The function 'searchContact' is never used. [unusedFunction]
 
-^","/tmp/tmpm94n47cx.cpp:1:0: style: The function 'searchContact' is never used. [unusedFunction]
+^","/tmp/tmpb9pz4gcg.cpp:1:0: style: The function 'searchContact' is never used. [unusedFunction]
 
-^","/tmp/tmpl1vx1ncy.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp73n1d9wm.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpea5zstq1.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp1wzi03i7.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpu1lnirob.cpp:1:22: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp288l9inp.cpp:1:22: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void searchContact() {
                      ^",OK
-432,OK,OK,"/tmp/tmpm4ajervw.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+432,OK,OK,"/tmp/tmp4nu3zzaq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpgo8yags8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpg7pe_aij.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpup4r_su3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK
-3925,OK,OK,"/tmp/tmpznlttyo6.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmp9fta4bzc.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpmdb2oi8n.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp72mjr2i7.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-3796,"/tmp/tmp7bx4b6yf.cpp:3:6: error: Unmatched '}'. Configuration: ''. [syntaxError]
+3925,OK,OK,"/tmp/tmp340wgwef.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmp4utyce7t.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmpp1_8fy_u.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^",OK
+3796,"/tmp/tmpjth0g64d.cpp:3:6: error: Unmatched '}'. Configuration: ''. [syntaxError]
      }
      ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]","/tmp/tmpy5063ugw.cpp:4:6: error: Unmatched '}'. Configuration: ''. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]","/tmp/tmp2hesrbkz.cpp:4:6: error: Unmatched '}'. Configuration: ''. [syntaxError]
      }
      ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]",OK,"/tmp/tmpsybhz_xl.cpp:22:10: error: No pair for character (""). Can't process file. File is either invalid or unicode, which is currently not supported. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]",OK,"/tmp/tmpd8l66o9h.cpp:22:10: error: No pair for character (""). Can't process file. File is either invalid or unicode, which is currently not supported. [syntaxError]
 #include ""slidecontainer_gui.mo
          ^",OK,OK
-1027,"/tmp/tmpb93nc29y.cpp:16:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+1027,"/tmp/tmpa6mlqutt.cpp:16:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpbdgcyca4.cpp:15:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpw_cz3c1l.cpp:15:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmp0pn68oqe.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpkwseo2gs.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpo4276fhr.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpxx0l1e3x.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem],OK
-2752,OK,OK,"/tmp/tmpzpxhwbrb.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2752,OK,OK,"/tmp/tmpyubmqij_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp0z6znwkp.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp2nd9s2kv.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpc5n5b70s.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpc2y858ta.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-1716,OK,OK,"/tmp/tmp1f2atim2.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1716,OK,OK,"/tmp/tmpp3ltktm3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp2mfb_xhn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp8ci7gzsw.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpm5btev2l.cpp:1:61: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpqq8wrnx8.cpp:1:61: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void Settings::UntaggedGroupBox::populateCategoryComboBox() {
                                                             ^",OK
-2619,OK,OK,"/tmp/tmpiznr23hg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2619,OK,OK,"/tmp/tmpm2reqoi3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpsall1_9x.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpy2bvr1zs.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpavqpowqx.cpp:1:49: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpkiddulff.cpp:1:49: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void BookmarkSyncManager::Private::clearCache() {
                                                 ^",OK
-4535,OK,OK,"/tmp/tmpcwfwp8dl.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+4535,OK,OK,"/tmp/tmpnfxioyt9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpa3x0unig.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpy51t079a.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpzmqvlbaf.cpp:1:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpuasw4vew.cpp:1:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void StringCompletionModel::save() {
                                    ^",OK
-4427,"/tmp/tmp10a3nzpg.cpp:8:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+4427,"/tmp/tmp_mtui4ke.cpp:8:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
   foreach(CustomPoint* point, m_pointsList)
-  ^",OK,"/tmp/tmpgwme54rw.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+  ^",OK,"/tmp/tmpuxmrai3j.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionYChanged() {
-                                         ^","/tmp/tmpcyxaq_4e.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                         ^","/tmp/tmpsmn4grgv.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionYChanged() {
-                                         ^","/tmp/tmpbrag3d32.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                         ^","/tmp/tmph03wqfej.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionYChanged() {
                                          ^",OK
-2024,OK,OK,"/tmp/tmpqs0wokmx.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2024,OK,OK,"/tmp/tmp_7q7zn0t.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpbnkxxecc.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpyuiacwrx.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpx00w8bz9.cpp:1:28: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpiijvw9af.cpp:1:28: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void DuplicateMerger::go() {
                            ^",OK
-4437,OK,OK,"/tmp/tmpahf1lc80.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
+4437,OK,OK,"/tmp/tmp0ylszdn2.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::symbolBorderWidthChanged(double value) {
-                                                             ^","/tmp/tmpg6mtwmdj.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                             ^","/tmp/tmpvfhbnurm.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::symbolBorderWidthChanged(double value) {
-                                                             ^","/tmp/tmpsuidmrhs.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                             ^","/tmp/tmpxuifu689.cpp:1:62: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::symbolBorderWidthChanged(double value) {
                                                              ^",OK
-157,OK,OK,"/tmp/tmpy0611bkq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+157,OK,OK,"/tmp/tmpwdhvgi97.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpe4bissq8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpmrgt6baq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpel0rvvar.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmps5tpjpl8.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void ComicCreator::filterImages(QStringList& entries) {
                                                       ^",OK
-3135,"/tmp/tmpaz38ccrg.cpp:18:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+3135,"/tmp/tmp27c_unc3.cpp:18:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpr6v12kxx.cpp:18:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpfy9uh8e4.cpp:18:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmp8fbmacf4.cpp:15:9: error: Unmatched '('. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpl3oa7mcz.cpp:15:9: error: Unmatched '('. Configuration: ''. [syntaxError]
 app.exit(
-        ^","/tmp/tmpemtdttkp.cpp:30:38: error: Unmatched '{'. Configuration: ''. [syntaxError]
+        ^","/tmp/tmpfyd8k8qs.cpp:30:38: error: Unmatched '{'. Configuration: ''. [syntaxError]
 for (const QString& path : pathList) {
                                      ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmpmtklyitj.cpp:1:75: error: Unmatched '{'. Configuration: ''. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmpoy1dbjfy.cpp:1:75: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void writeSvg(const QString& outputFilename, const QStringList& pathList) {
                                                                           ^",OK
-4426,"/tmp/tmpugcsj3xb.cpp:8:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+4426,"/tmp/tmp9pc01yoj.cpp:8:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
   foreach(CustomPoint* point, m_pointsList)
-  ^",OK,"/tmp/tmpbjyzkf1v.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+  ^",OK,"/tmp/tmpjk7c3t7e.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionXChanged() {
-                                         ^","/tmp/tmpp6dm_dyc.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                         ^","/tmp/tmp_1cq0epb.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionXChanged() {
-                                         ^","/tmp/tmp9ssamkdx.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                         ^","/tmp/tmptcq02_39.cpp:1:42: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void CustomPointDock::positionXChanged() {
                                          ^",OK
-1713,OK,OK,"/tmp/tmp8k9267hb.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1713,OK,OK,"/tmp/tmphs7y7ln0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpngyfppej.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpfacwlsjq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpa3tyal4k.cpp:1:61: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp7fb8h0l9.cpp:1:61: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void AssetListWidget::setFilterName(const QString &pattern) {
                                                             ^",OK
-2751,OK,OK,"/tmp/tmpwr0rccxd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2751,OK,OK,"/tmp/tmpsn6qa41i.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmps8ok87h4.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp04lpz89i.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpnn5sildw.cpp:1:76: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp3ay95i_0.cpp:1:76: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void LibraryTree::slotUpdateThumb(const QString &path, const QPixmap &pix) {
                                                                            ^",OK
-2061,OK,OK,"/tmp/tmpdr42wdj_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2061,OK,OK,"/tmp/tmpds1mcrb8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmppr5j5h9b.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpxbul69lw.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp4j4y6ug9.cpp:2:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpi7xz0m1c.cpp:2:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
  {
  ^",OK
-5051,"/tmp/tmpql8tsxla.cpp:14:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+5051,"/tmp/tmp5j355rxs.cpp:14:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
          foreach( AbstractNetSystemFactory* factory, mNetSystemFactoryList )
-         ^",OK,"/tmp/tmprmg_rjfj.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+         ^",OK,"/tmp/tmpkimve35b.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp1b4oes1l.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp17v1f7sq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp62k8yr64.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpw9abez6s.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-2748,OK,OK,"/tmp/tmpptly72gr.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2748,OK,OK,"/tmp/tmp33eq434_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpdn1b1h0k.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp_skzjpqo.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp5nqdrwax.cpp:15:18: error: syntax error [syntaxError]
+^","/tmp/tmpetk02cj2.cpp:15:18: error: syntax error [syntaxError]
 1. **Range-based for loop:** The original `foreach` loop is replaced with a range-based for loop:
                  ^",OK
-4037,OK,OK,"/tmp/tmpi9gl0u01.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
+4037,OK,OK,"/tmp/tmp7ejmr074.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void XYEquationCurveDock::recalculateClicked() {
-                                               ^","/tmp/tmpgy32y8ph.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                               ^","/tmp/tmpf6e0xrv9.cpp:1:48: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void XYEquationCurveDock::recalculateClicked() {
-                                               ^","/tmp/tmp_4lwipa2.cpp:22:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                               ^","/tmp/tmp_hcr3t_9.cpp:22:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
   for (auto* curve : m_curvesList) {
                                    ^",OK
-4488,OK,OK,"/tmp/tmp01zgtyv4.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
+4488,OK,OK,"/tmp/tmpj6pwtc89.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
 DatapickerView::~DatapickerView() {
-                                  ^","/tmp/tmpkk09ojek.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                  ^","/tmp/tmp1rhualoz.cpp:1:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
 DatapickerView::~DatapickerView() {
-                                  ^","/tmp/tmp3weelzh_.cpp:19:147: error: syntax error [syntaxError]
+                                  ^","/tmp/tmprs4s1f_s.cpp:19:147: error: syntax error [syntaxError]
    - We replace `foreach(const AbstractAspect* aspect, m_datapicker->children<AbstractAspect>(AbstractAspect::IncludeHidden))` with a range-based for loop:
                                                                                                                                                   ^",OK
-1952,OK,OK,"/tmp/tmp9c08spng.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1952,OK,OK,"/tmp/tmporhpve6g.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpokfb8xu2.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmphi28k275.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpp79ue9bl.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK
-804,OK,OK,"/tmp/tmpnx9r5h7w.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmp54jln78m.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpynh6dwvy.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp3tec9nxe.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-3711,OK,OK,"/tmp/tmp4k1r1_b6.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
+804,OK,OK,"/tmp/tmpdced7bos.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmppm9huvi9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmpc70dvy3a.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^",OK
+3711,OK,OK,"/tmp/tmp_f5zyqxz.cpp:1:55: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void OsmRegionTree::append(QList<OsmRegion>& regions) {
-                                                      ^","/tmp/tmp8925tige.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                      ^","/tmp/tmp5o50o4kh.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp7qrmbfug.cpp:1:57: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp5ls_6i8j.cpp:1:57: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void OsmRegionTree::append( QList<OsmRegion> &regions ) {
                                                         ^",OK
-3267,OK,OK,"/tmp/tmp5_knjzhp.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3267,OK,OK,"/tmp/tmpr4_igzmg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpsxi31cjj.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpkyadkg7k.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp6mm0ojxi.cpp:25:30: error: Unmatched '('. Configuration: ''. [syntaxError]
+^","/tmp/tmppekb34xc.cpp:25:30: error: Unmatched '('. Configuration: ''. [syntaxError]
     QAbstractItemView::update(idx
                              ^",OK
-3410,"/tmp/tmpbb4ciqve.cpp:6:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+3410,"/tmp/tmp5fa8hage.cpp:6:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
          foreach (QGraphicsLineItem* line, lines)
-         ^",OK,"/tmp/tmp_jd1h5_3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+         ^",OK,"/tmp/tmpb9lnb3_0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpe5anz0c1.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpv_y75zqk.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpd54rwtwv.cpp:1:33: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpu46c2475.cpp:1:33: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void WeekScene::colorsChanged() {
                                 ^",OK
-1446,OK,OK,"/tmp/tmpkxybszze.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1446,OK,OK,"/tmp/tmp6hwahf06.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpod1qac5m.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp7lea3gnq.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpyp62buoj.cpp:1:27: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp_wf1cgwn.cpp:1:27: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void TourPlayback::play() {
                           ^",OK
-5129,OK,OK,"/tmp/tmpfpmo6_8f.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5129,OK,OK,"/tmp/tmps6umubfx.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
 const QString ThemeHandler::themeFilePath(const QString& name) {
-                                                               ^","/tmp/tmps4ecdeps.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                               ^","/tmp/tmpefa857tj.cpp:1:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
 const QString ThemeHandler::themeFilePath(const QString& name) {
-                                                               ^","/tmp/tmpe2q6lbrh.cpp:3:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                               ^","/tmp/tmp1kutascy.cpp:3:64: error: Unmatched '{'. Configuration: ''. [syntaxError]
 const QString ThemeHandler::themeFilePath(const QString& name) {
                                                                ^
 nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]",OK
-713,"/tmp/tmptatyqkjk.cpp:5:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+713,"/tmp/tmpkss4ptm7.cpp:5:3: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
   foreach(Note* note, m_notesList)
-  ^",OK,"/tmp/tmpt27dhqum.cpp:1:51: error: Unmatched '{'. Configuration: ''. [syntaxError]
+  ^",OK,"/tmp/tmpjmezifot.cpp:1:51: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void NoteDock::textFontChanged(const QFont& font) {
-                                                  ^",OK,"/tmp/tmpcbl8j34j.cpp:1:51: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                  ^",OK,"/tmp/tmp_fy783u9.cpp:1:51: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void NoteDock::textFontChanged(const QFont& font) {
                                                   ^",OK
-585,OK,OK,"/tmp/tmp6vl59v46.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+585,OK,OK,"/tmp/tmpdm_qxsr9.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmparq4bat6.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp75j7n1_f.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpzg8byhro.cpp:21:85: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpe3566xem.cpp:21:85: error: Unmatched '{'. Configuration: ''. [syntaxError]
 for (const auto& file : QDir(subdir.absoluteFilePath()).entryInfoList(QDir::Files)) {
                                                                                     ^",OK
-3716,"/tmp/tmp50ru9qpn.cpp:20:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+3716,"/tmp/tmpp9f_adv2.cpp:20:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmplq3421ca.cpp:20:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmpds1_w590.cpp:20:2: error: Unmatched '}'. Configuration: ''. [syntaxError]
  }
- ^","/tmp/tmpppfz_lli.cpp:1:94: error: Unmatched '{'. Configuration: ''. [syntaxError]
+ ^","/tmp/tmp6ha4i0e_.cpp:1:94: error: Unmatched '{'. Configuration: ''. [syntaxError]
 int OsmRegionTree::smallestRegionId(const GeoDataCoordinates &coordinates, int &level) const {
-                                                                                             ^","/tmp/tmpfcd0bhfj.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                                             ^","/tmp/tmpu3ixznya.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpjc1j3lip.cpp:24:58: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp0o407mp0.cpp:24:58: error: Unmatched '{'. Configuration: ''. [syntaxError]
 -     foreach( const OsmRegionTree & child, m_children ) {
                                                          ^",OK
-1197,OK,OK,"/tmp/tmpzkb1fo38.cpp:13:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+1197,OK,OK,"/tmp/tmpoeh58_ko.cpp:13:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpto_7o7_v.cpp:13:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpqmjgj3ed.cpp:13:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpe7kehtih.cpp:14:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp3przkxu5.cpp:14:35: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void Viewer::ImageDisplay::busy() {
                                   ^",OK
-3568,OK,OK,"/tmp/tmp7ilupc20.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3568,OK,OK,"/tmp/tmp467_ntrm.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpx_pa4kai.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpqohm7ro3.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpnliqshwg.cpp:28:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpjxpn42ny.cpp:28:36: error: Unmatched '{'. Configuration: ''. [syntaxError]
     for (const auto &file : files) {
                                    ^",OK
-4344,OK,"/tmp/tmpndnh14hh.cpp:9:68: style: Consider using std::find_if algorithm instead of a raw loop. [useStlAlgorithm]
+4344,OK,"/tmp/tmp1u58980f.cpp:9:68: style: Consider using std::find_if algorithm instead of a raw loop. [useStlAlgorithm]
          if ( m_source.isEmpty() || plugin->nameId() == m_source ) {
-                                                                   ^","/tmp/tmpdlytpnbs.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                   ^","/tmp/tmptcsir0cj.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmper6xcwad.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp1xzxmgsp.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpe5bhr0g8.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^",OK
-2918,OK,OK,"/tmp/tmpmcj5hqrn.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmp_zv53598.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
-{
-^","/tmp/tmpam8eg4rd.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpq81ztu_u.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-2920,OK,OK,"/tmp/tmpxfd0yyhp.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+2918,OK,OK,"/tmp/tmp8jtiukw_.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpf152d1n0.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpnbcjb031.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpplbpan5k.cpp:1:81: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp0pvg0hdp.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^",OK
+2920,OK,OK,"/tmp/tmpej9wvlbg.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmpj3laq51d.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+{
+^","/tmp/tmpx9wfe5f2.cpp:1:81: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void KoColorSetWidget::KoColorSetWidgetPrivate::addRecent(const KoColor &color) {
                                                                                 ^",OK
-3511,OK,OK,"/tmp/tmp7to3l795.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+3511,OK,OK,"/tmp/tmpvumw28k6.cpp:2:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpl5t7ojf2.cpp:13:68: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp_d6_z12i.cpp:13:68: error: Unmatched '{'. Configuration: ''. [syntaxError]
 void KWPart::setupViewInstance(KoDocument* document, KWView* view) {
                                                                    ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmp_yv8rrhv.cpp:1:75: error: Unmatched '{'. Configuration: ''. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmp1u60pj_1.cpp:1:75: error: Unmatched '{'. Configuration: ''. [syntaxError]
 KoView* KWPart::createViewInstance(KoDocument* document, QWidget* parent) {
                                                                           ^",OK
-3512,"/tmp/tmplbo1wewb.cpp:10:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+3512,"/tmp/tmp85hga8i5.cpp:10:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
          foreach (KoShape *shape, fs->shapes())
-         ^","/tmp/tmpgdrbqbxx.cpp:14:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
+         ^","/tmp/tmp3bcf3s37.cpp:14:10: error: There is an unknown macro here somewhere. Configuration is required. If foreach is a macro then please configure it. [unknownMacro]
          foreach (KoShape *shape, fs->shapes())
-         ^","/tmp/tmpvk083cxv.cpp:28:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+         ^","/tmp/tmp9v9tjd5h.cpp:28:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpm54zr7nb.cpp:57:63: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp5hqj2o1y.cpp:57:63: error: Unmatched '{'. Configuration: ''. [syntaxError]
 QGraphicsItem* KWPart::createCanvasItem(KoDocument* document) {
                                                               ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmp_bdpm32t.cpp:43:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmpvxqyl95e.cpp:43:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
  {
  ^",OK
-5217,OK,OK,"/tmp/tmpt0bke47b.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5217,OK,OK,"/tmp/tmpum3x1q1s.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpgwrofdus.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmphun97qr3.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmppww0w2_8.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp52umwku9.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
 ^",OK
-5223,OK,OK,"/tmp/tmp5lc6go4r.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5223,OK,OK,"/tmp/tmpje7o0zoc.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmp_5fhk56c.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp7l3xwk70.cpp:4:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpc1ijwkpq.cpp:6:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmpai2avuzq.cpp:6:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
  {
  ^",OK
-5229,"/tmp/tmp2_yp0pqj.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
+5229,"/tmp/tmp7wltfnbb.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
 
-^","/tmp/tmpvmuycmai.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
+^","/tmp/tmphyxod0ui.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
 
-^","/tmp/tmpzyt3n02a.cpp:1:67: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp6locn4hk.cpp:1:67: error: Unmatched '{'. Configuration: ''. [syntaxError]
 explicit Tool(Module* module) : QObject(module), m_module(module) {
-                                                                  ^","/tmp/tmp6ledcr02.cpp:1:67: error: Unmatched '{'. Configuration: ''. [syntaxError]
+                                                                  ^","/tmp/tmpk5rtd1_a.cpp:1:67: error: Unmatched '{'. Configuration: ''. [syntaxError]
 explicit Tool(Module* module) : QObject(module), m_module(module) {
-                                                                  ^","/tmp/tmpl7y2vunn.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
+                                                                  ^","/tmp/tmplziuo4fw.cpp:1:0: style: The function 'Tool' is never used. [unusedFunction]
 
 ^",OK
-5244,OK,OK,OK,"/tmp/tmp75m_jljr.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5244,OK,OK,OK,"/tmp/tmppxizzsiz.cpp:3:1: error: Unmatched '{'. Configuration: ''. [syntaxError]
 {
-^","/tmp/tmpx4usg3p0.cpp:3:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
+^","/tmp/tmp6gbde99h.cpp:3:2: error: Unmatched '{'. Configuration: ''. [syntaxError]
  {
  ^",OK
-5269,OK,OK,"/tmp/tmp2veo8ned.cpp:1:15: error: Unmatched '{'. Configuration: ''. [syntaxError]
+5269,OK,OK,"/tmp/tmprv5ya0oe.cpp:1:15: error: Unmatched '{'. Configuration: ''. [syntaxError]
 class MyClass {
-              ^","/tmp/tmpxiupkdli.cpp:4:15: error: Unmatched '{'. Configuration: ''. [syntaxError]
+              ^","/tmp/tmpcuak3nkh.cpp:4:15: error: Unmatched '{'. Configuration: ''. [syntaxError]
 class MyClass {
               ^
-nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmp68ot_1m_.cpp:1:76: error: Unmatched '{'. Configuration: ''. [syntaxError]
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]","/tmp/tmpsl6slorv.cpp:1:76: error: Unmatched '{'. Configuration: ''. [syntaxError]
 KoView* createViewInstance(KoDocument* document, QWidget* parent) override {
                                                                            ^",OK
 5270,OK,OK,OK,OK,OK,OK

@@ -5,8 +5,8 @@ import csv
 import os
 
 # Caminho do arquivo Excel
-input_file = '/home/walterlucas/Downloads/tb_function_comparison2.xlsx'
-output_file_path = '/home/walterlucas/pamunb-workspace/llm-check-syntax/'
+input_file = 'tb_function_comparison2.xlsx'
+output_file_path = './'
 
 def check_syntax_cpplint(code: str) -> str:
     """Função para verificar a sintaxe de um código C++ utilizando cpplint."""
@@ -98,7 +98,7 @@ def check_syntax(code: str, tool: str = 'cpplint') -> str:
         raise ValueError("Ferramenta não suportada. Use 'cpplint', 'cpp-linter' ou 'cppcheck'.")
 
 
-def process_excel(input_file: str, output_file_path: str, tool: str = 'cpp-linter'):
+def process_excel(input_file: str, output_file_path: str, tool: str = 'cppcheck'):
     # Lê o arquivo Excel
     df = pd.read_excel(input_file, sheet_name='Sheet1').fillna('')
 
