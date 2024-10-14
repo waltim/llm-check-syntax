@@ -3,6 +3,7 @@ import tempfile
 import subprocess
 import csv
 import os
+import argparse
 
 # Caminho do arquivo Excel
 input_file = 'tb_function_comparison2.xlsx'
@@ -143,5 +144,13 @@ def process_excel(input_file: str, output_file_path: str, tool: str = 'cppcheck'
     print(f"Processamento concluído. Resultados salvos em {output_file_path+'syntax_check_results_'+tool+'.csv'}")
 
 
-# Executa o processamento
-process_excel(input_file, output_file_path)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Process Excel file and save results.')
+    parser.add_argument('input_file', type=str, help='Path to the input Excel file')
+    parser.add_argument('output_file_path', type=str, help='Path to save the output CSV file')
+    parser.add_argument('tool', type=str, help='Tool name to be used in the output file name')
+
+    args = parser.parse_args()
+
+    process_excel(args.input_file, args.output_file_path, args.tool)
+    

@@ -33,7 +33,7 @@ Para utilizar as ferramentas de verificação de sintaxe de código C++, você p
 
 ```bash
 sudo apt install clang-tidy clang-format
-
+```
 
 ### Instalação dos Pacotes Python
 
@@ -41,3 +41,12 @@ Você pode instalar os pacotes python necessários com o seguinte comando:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Executando o Script de Verificação
+
+Para executar o script checker_cpp.py, você pode usar o seguinte comando no terminal:
+
+```bash
+python3 [checker_cpp.py] /path/to/input.xlsx /path/to/output/ tool_name
+```
